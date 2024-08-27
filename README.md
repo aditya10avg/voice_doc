@@ -1,4 +1,5 @@
-# Parkinson-s-Voice-analysis-for-Early-Detection
+# Parkinson-s-Voice-analysis-for-Early-Detection 
+Complete Work is not done yet !
 This is the code for model that tries to early detect Parkinson's Symptoms using your vocal data that is your voice pitch , clarity,  tone and jitters  in the voice 
 
 Required Libraries are 
