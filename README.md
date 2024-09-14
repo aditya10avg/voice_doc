@@ -8,7 +8,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/voice_doc.git
+    git clone https://github.com/AdityaAVG/voice_doc.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
@@ -43,7 +43,7 @@ To run this project on Google Colab, follow these steps:
 In a new Colab notebook, run the following command to clone the repository:
 
 ```python
-!git clone https://github.com/yourusername/voice_doc.git
+!git clone https://github.com/AdityaAVG/voice_doc.git
 ```
 
 ### **Step 3: Navigate to repository**
@@ -89,7 +89,7 @@ The dataset used for training is the [UCI Parkinson’s dataset](https://archive
 ## **Gradio Interface**
 
 The Gradio interface allows users to:
-1. Record their voice by reading provided sentences.
+1. Record their voice by reading the provided sentences.
 2. Extract and analyze relevant voice features.
 3. Automatically save extracted features into a CSV file (`audio_features.csv`).
 
